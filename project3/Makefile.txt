@@ -1,2 +1,2 @@
-all:
-.PHONY: all
+%:
+	@:
